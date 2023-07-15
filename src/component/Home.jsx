@@ -16,7 +16,7 @@ import box1i from '../assets/Dec4.png';
 import { AiFillCheckCircle } from 'react-icons/ai'
 import box1j from '../assets/Dec5.png';
 import man from '../assets/r1.png';
-import star from '../assets/star.png';
+import star from '../assets/Star.png';
 import arrow from '../assets/G5.png';
 import ikons from '../assets/ikon.png';
 import icons from '../assets/icon.png';
