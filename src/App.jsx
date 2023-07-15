@@ -5,7 +5,7 @@ import Footer from './component/Footer'
 import Home from './component/Home'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import pic from './assets/r6.png';
-import pics from './assets/dec1.png';
+import real from './assets/dec1.png';
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <BrowserRouter>
       <div className="navbar">
       <div className="bg-img">
-                <div className="bg1"><img src={pics}/></div>
+                <div className="bg1"><img src={real}/></div>
                 <div className="bg2"><img src={pic}/></div>
             </div>
       <Navbar />
