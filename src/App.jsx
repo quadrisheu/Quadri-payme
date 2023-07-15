@@ -5,7 +5,7 @@ import Footer from './component/Footer'
 import Home from './component/Home'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import pic from './assets/r6.png';
-import real from './assets/dec1.png';
+import real from './assets/Dec1.png';
 
 
 function App() {
