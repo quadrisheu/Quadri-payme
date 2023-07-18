@@ -395,10 +395,9 @@ button, a{
         align-items: start;
     }
 
-    /* .nav-two-one .mie,.mee{
+    .nav-two-one .mie,.mee{
         margin-left: -20px;
-        background-color: #b31313;
-    } */
+    }
 
     .nav-two-one a{
         color: #fff;

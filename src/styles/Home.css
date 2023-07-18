@@ -4056,7 +4056,8 @@ ul .mark {
  
  .level5-mid :hover {
      color: #25A4AD;
-     background-color: #FFF;   
+     background-color: #FFF; 
+     transition: 5s;  
  }
  
  .level5-card h3 {
